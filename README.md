@@ -7,7 +7,6 @@ Berkeley Bootcamp - Module 1
 ### Module 1 Challenge
 
 
-![alt text](https://imgur.com/LyASpK2)
-![alt text](http://url/to/img.png)
+![alt text](outcomes_based_on_goal.png)
 
 
