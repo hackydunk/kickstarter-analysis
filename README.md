@@ -16,4 +16,8 @@ The conclusions drawn from this exercise are as follows.
 
 ![Outcomes Based on Launch Date](outcomes_based_on_launch_date.PNG)
 
+The analysis performed on this dataset included looking at outcomes (successful, failed, canceled) based on goal ranges for all kickstarter campaigns.  It also looked at outcomes based on launch date.
 
+This analysis is helpful but far from complete.  The parent category was only selected for the launch date analysis. In addition other points of data like "deadlines" were not used.  This leaves the conclusion lacking a solid foundation.
+
+I would not personally start a kickstarter based solely on the data from the previous two charts.
