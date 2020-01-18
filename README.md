@@ -21,3 +21,11 @@ The analysis performed on this dataset included looking at outcomes (successful,
 This analysis is helpful but far from complete.  The parent category was only selected for the launch date analysis. In addition other points of data like "deadlines" were not used.  This leaves the conclusion lacking a solid foundation.
 
 I would not personally start a kickstarter based solely on the data from the previous two charts.
+
+
+Suggestions for additional tables or graphs:  
+
+A table showing kickstarters grouped by country of origin.
+A table highlighting donation information including currency, total backers, and average donation.
+A chart showing the outcomes based on country.
+A chart showing donation information like average donation of successful kickstarters versus average donation of failed kickstarters.
