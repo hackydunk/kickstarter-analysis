@@ -25,7 +25,7 @@ I would not personally start a kickstarter based solely on the data from the pre
 
 Suggestions for additional tables or graphs:  
 
-A table showing kickstarters grouped by country of origin.
-A table highlighting donation information including currency, total backers, and average donation.
-A chart showing the outcomes based on country.
+A table showing kickstarters grouped by country of origin.  
+A table highlighting donation information including currency, total backers, and average donation.  
+A chart showing the outcomes based on country.  
 A chart showing donation information like average donation of successful kickstarters versus average donation of failed kickstarters.
